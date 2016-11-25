@@ -1,3 +1,16 @@
+/********************************************************************************************************/
+/*
+* File: Input.cpp
+* Author: Daniel Santander
+* NetID: dsantand
+* Date:
+*
+* Description: The  Input class holds the values for the u variables used in the kinematic model.
+*			   Its interface is included on Piazza as a resource for this Project.
+*/
+/********************************************************************************************************/
+
+
 #include "Input.h"
 
 // constructs a new Input object with these initial values
