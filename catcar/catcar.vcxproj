@@ -76,6 +76,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="DataSource.h" />
+    <ClInclude Include="Input.h" />
+    <ClInclude Include="State.h" />
+    <ClInclude Include="Vehicle.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DataSource.cpp" />
+    <ClCompile Include="Input.cpp" />
+    <ClCompile Include="State.cpp" />
+    <ClCompile Include="Vehicle.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
